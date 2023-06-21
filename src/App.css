@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.data{
+  display: block;
+  justify-content: center;
+  text-align: center;
+}
+.index{
+  background-color: blue;
+  color: white;
+  padding: 10px 15px;
+}
